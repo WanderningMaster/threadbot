@@ -1,0 +1,3 @@
+/help - How this bot works
+/commands - commands description
+/thread - Creating thread on your channel

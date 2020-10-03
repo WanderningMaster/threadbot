@@ -1,0 +1,14 @@
+Thanks for new Telegram feature - comments, this bot generating someting like threads on reddit
+
+First you should to do thats create channel and give there admin permissions for bot. Now bot can posting on your channel.
+
+Than you should create discussion chat for using new feature.
+
+Also i put config.py in .gitignore so you should create it in root directory.
+
+
+File looks like:
+
+BOT_TOKEN = 'Your token'
+
+CHAT_ID = 'Your channel name' it looks like @mychannel.
